@@ -1,0 +1,44 @@
+const projects = [
+  {
+    image: "src/assets/eccomerce.jpg",
+    title: "AI-Powered Ecommerce Website",
+    description: "An AI-powered eCommerce website that enhances user experience with personalized recommendations, smart search, and automated customer support.",
+  },
+  {
+    image: "src/assets/newsinsight.jpg",
+    title: "News Insight-AI",
+    description: "News Insight-AI is an AI-powered platform that detects fake news, verifies authenticity, and provides reliable real-time insights.",
+  },
+  {
+    image: "src/assets/bloging.jpg",
+    title: "Blogging Website",
+    description: "A blogging website that allows users to create, share, and engage with insightful content, featuring a user-friendly interface and rich customization options.",
+  },
+  {
+    image: "src/assets/chatbot.jpg",
+    title: "Gemini Chatbot Using API",
+    description: "A Gemini-powered chatbot that leverages API integration to provide intelligent, real-time responses for seamless user interactions.",
+  },
+  {
+    image: "src/assets/parental.jpg",
+    title: "Parental Control Website (FYP)",
+    description: "A parental control website that helps monitor and manage children's online activities with content filtering, screen time limits, and real-time alerts.",
+  },
+  {
+    image: "src/assets/technet.jpg",
+    title: "Tech Net Cloud Website",
+    description: "The Tech Net Cloud Website is a professional platform I worked on during my internship at Tech Net Cloud, featuring cloud solutions and a user-friendly interface.",
+  },
+  {
+    image: "src/assets/portfolio.jpg",
+    title: "Personal Portfolio Website",
+    description: "A personal portfolio website showcasing my skills, projects, and experience as a frontend developer, with a sleek design and interactive user experience.",
+  },
+  {
+    image: "src/assets/object.jpg",
+    title: "Object Detection Model",
+    description: "An object detection model that leverages AI to accurately identify and classify objects in images or videos in real time.",
+  },
+];
+
+export default projects;
